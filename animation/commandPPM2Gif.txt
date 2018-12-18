@@ -1,0 +1,2 @@
+convert 512.ppm -quantize Lab -colors 256 result.gif
+#note that the resulting gif file is very slow
